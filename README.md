@@ -1,6 +1,6 @@
 # Product-Catalog
 
-Simple Product Catalog App
+**A Simple Product Catalog App**
 Built with:
 
 Product catalog
@@ -19,16 +19,19 @@ Backend: https://dummyjson.com/ (backend imitation)
 flutter pub get
 flutter run
 
-### Requirement Check
-Requirement	Где реализовано
-Language: Dart	✅	all code on Dart
-Framework: Flutter	✅	Flutter used
-Bloc for state management	✅	product_bloc.dart, events, states
-Request to backend	✅	ProductService + HTTP request
-List of products page	✅	product_list_page.dart
-Product view/details page	✅	product_details_page.dart
-Use dummyjson backend	✅	https://dummyjson.com/products
-Master-detail structure	✅	list page → details page navigation
+### Requirements Check
+
+| Requirement              | Implementation                                                   |
+| ------------------------ | ---------------------------------------------------------------- |
+| Dart language            | Entire project written in Dart                                   |
+| Flutter framework        | Built with Flutter                                               |
+| BLoC state management    | `product_bloc.dart`, events, states                              |
+| API requests             | `ProductService` (HTTP calls)                                    |
+| Product list page        | `product_list_page.dart`                                         |
+| Product details page     | `product_details_page.dart`                                      |
+| DummyJSON backend        | [https://dummyjson.com/products](https://dummyjson.com/products) |
+| Master-detail navigation | List → Details flow                                              |
+
 
 ### Structure 
 
@@ -63,3 +66,16 @@ lib/
 │       │       └── product_card.dart
 
 
+
+### 📚 Learning Resources
+Dart & Flutter
+https://dart.dev/guides
+https://docs.flutter.dev/get-started
+https://flutter.dev/learn
+https://dartpad.dev
+BLoC State Management
+https://bloclibrary.dev
+https://pub.dev/packages/flutter_bloc
+API in Flutter
+https://pub.dev/packages/http
+https://docs.flutter.dev/cookbook/networking/fetch-data
