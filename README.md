@@ -35,6 +35,7 @@ flutter run
 
 ### Structure 
 
+```
 lib/
 │
 ├── main.dart
@@ -64,6 +65,7 @@ lib/
 │       │   │
 │       │   └── widgets/
 │       │       └── product_card.dart
+```
 
 
 
