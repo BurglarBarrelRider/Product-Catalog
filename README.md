@@ -74,15 +74,18 @@ lib/
 ###<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/4f03b99c-f4d6-4e95-8b28-ecb61c58cecc" />
 
 
-### 📚 Learning Resources
-Dart & Flutter
-https://dart.dev/guides
-https://docs.flutter.dev/get-started
-https://flutter.dev/learn
-https://dartpad.dev
-BLoC State Management
-https://bloclibrary.dev
-https://pub.dev/packages/flutter_bloc
-API in Flutter
-https://pub.dev/packages/http
-https://docs.flutter.dev/cookbook/networking/fetch-data
+### !!! Learning Resources !!!
+
+#### + Dart & Flutter
+- https://dart.dev/guides  
+- https://docs.flutter.dev/get-started  
+- https://flutter.dev/learn  
+- https://dartpad.dev  
+
+####  BLoC State Management
+- https://bloclibrary.dev  
+- https://pub.dev/packages/flutter_bloc  
+
+####  API in Flutter
+- https://pub.dev/packages/http  
+- https://docs.flutter.dev/cookbook/networking/fetch-data  
