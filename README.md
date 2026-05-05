@@ -67,6 +67,11 @@ lib/
 │       │       └── product_card.dart
 ```
 
+## Screens
+
+###<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/3d132b7e-7389-4435-ab24-dc0b7b325be2" />
+
+###<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/4f03b99c-f4d6-4e95-8b28-ecb61c58cecc" />
 
 
 ### 📚 Learning Resources
